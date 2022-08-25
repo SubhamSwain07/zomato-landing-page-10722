@@ -1,2 +1,2 @@
-#This is Zomato landing page clone Projectclear
-Its not working 
+#This is Zomato landing page clone Project
+Its working fine
